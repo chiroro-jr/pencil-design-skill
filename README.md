@@ -17,8 +17,7 @@ This skill helps AI agents work effectively with Pencil (`.pen` files) — a vec
 ### Via opencode CLI
 
 ```bash
-# Coming soon - install directly from the registry
-opencode skill install chiroro-jr/pencil-design
+npx skills add chiroro-jr/pencil-design-skill
 ```
 
 ### Manual Installation
